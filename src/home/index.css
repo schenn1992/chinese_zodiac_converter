@@ -1,0 +1,19 @@
+.background {
+  background-color: var(--red);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.background h1 {
+  margin-bottom: 4rem;
+  font-family: var(--cutive);
+  font-size: 4rem;
+  color: var(--golden);
+}
+
+.birth-year {
+  background-color: var(--golden);
+}

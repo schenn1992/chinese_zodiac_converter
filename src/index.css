@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --golden: #feb049;
+  --cutive: 'Cutive Mono', monospace;
+  --red: #b92327;
+}

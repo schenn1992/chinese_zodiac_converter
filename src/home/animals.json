@@ -1,0 +1,87 @@
+{
+  "rat": {
+    "id": 1,
+    "name": "Rat",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "ox": {
+    "id": 2,
+    "name": "Ox",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "tiger": {
+    "id": 3,
+    "name": "Tiger",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "rabbit": {
+    "id": 4,
+    "name": "Rabbit",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "dragon": {
+    "id": 5,
+    "name": "Dragon",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "snake": {
+    "id": 6,
+    "name": "Snake",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "horse": {
+    "id": 7,
+    "name": "Horse",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "sheep": {
+    "id": 8,
+    "name": "Sheep",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+
+  "monkey": {
+    "id": 9,
+    "name": "Monkey",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "rooster": {
+    "id": 10,
+    "name": "Rooster",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "dog": {
+    "id": 11,
+    "name": "Dog",
+    "description": "",
+    "image": "",
+    "character": ""
+  },
+  "pig": {
+    "id": 12,
+    "name": "Pig",
+    "description": "",
+    "image": "",
+    "character": ""
+  }
+}
